@@ -1,7 +1,6 @@
 {
   "name": "pinhole-camera",
   "version": "1.0.0",
-  "homepage": "./", 
   "description": "Interactive Pinhole Camera Experiment",
   "scripts": {
     "dev": "webpack serve",
